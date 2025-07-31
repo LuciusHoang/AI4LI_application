@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+.env
+.idea
+*.log
+
+# Exclude data/
+/data/raw/
+/data/clips/
+/data/keypoints/
+/data/*.mp4
