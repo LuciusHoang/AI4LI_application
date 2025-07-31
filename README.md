@@ -93,5 +93,5 @@ python scripts/extract_keypoints_batch.py
 - Python >= 3.8
 - Thư viện:
 ```bash
-pip install mediapipe opencv-python numpy scikit-learn joblib moviepy pytube
+pip install mediapipe opencv-python numpy scikit-learn joblib moviepy pytube yt_dlp
 ```
